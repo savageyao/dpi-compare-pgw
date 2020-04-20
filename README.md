@@ -9,8 +9,8 @@
 
 入文件格式要求
 
-1. Excel 2010格式，后缀为xlsx
+*Excel 2010格式，后缀为xlsx
 
-2.单用户的DPI明细，F列为目的IP，K列为URL
+*单用户的DPI明细，F列为目的IP，K列为URL
 
-3.xGW导出的dpi规则文件（目前支持中兴），AE列为RG值，H/I列为目的IP和掩码，T列为URL
+*xGW导出的dpi规则文件（目前支持中兴），AE列为RG值，H/I列为目的IP和掩码，T列为URL
