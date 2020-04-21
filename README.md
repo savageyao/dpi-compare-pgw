@@ -8,9 +8,18 @@
 
 
 入文件格式要求
+------
 
 *Excel 2010格式，后缀为xlsx
 
 *单用户的DPI明细，F列为目的IP，K列为URL
 
 *xGW导出的dpi规则文件（目前支持中兴），AE列为RG值，H/I列为目的IP和掩码，T列为URL
+
+
+输出范例
+------
+
+比对结果
+
+<img src="https://github.com/savageyao/dpi-compare-pgw/blob/master/sample.png" />
